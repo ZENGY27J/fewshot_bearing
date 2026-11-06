@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+replotted_figures/
+code/data/
+code/results/
+code/tmp/
+*.pt
+*.pth
+*.mat
+*.npz
+*.npy

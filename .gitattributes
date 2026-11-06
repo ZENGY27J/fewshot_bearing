@@ -1,0 +1,2 @@
+# Preserve published file bytes so sha256.json verifies on every platform.
+* -text
